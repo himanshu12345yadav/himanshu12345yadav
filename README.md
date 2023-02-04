@@ -103,12 +103,12 @@
 <br />
 
 <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshu12345yadav&count_private=true&show_icons=true&theme=radical&layout=compact&langs_count=10&hide_border=true"
+    src="https://hycodes-stats.vercel.app/api/top-langs?username=himanshu12345yadav&count_private=true&show_icons=true&theme=radical&layout=compact&langs_count=10&hide_border=true"
 />
 
 <p>
   <img
-    src="https://github-readme-stats.vercel.app/api?username=himanshu12345yadav&show_icons=true&theme=radical&count_private=true&hide_border=true"
+    src="https://hycodes-stats.vercel.app/api?username=himanshu12345yadav&show_icons=true&theme=radical&count_private=true&hide_border=true"
     alt="himanshu12345yadav"
   />
   <img
