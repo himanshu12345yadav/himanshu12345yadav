@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Himanshu Yadav</h1>
 
 - 🔭 I’m currently working on crazy stuff
-- 🌱 I’m currently learning Cloud Computing
+- 🌱 I’m currently learning Devops , Cloud Computing
 - 😄 Pronouns: He/Him
 
 ### :link: Connect with me
@@ -56,6 +56,7 @@
 [<img align="left" src="https://cdn.simpleicons.org/redux" alt="redux" width="30" height="30" style="margin: 0px 5px; border-radius: 5px" />][reduxjs]
 [<img align="left" src="https://cdn.simpleicons.org/tailwindcss" alt="tailwindcss" width="30" height="30" style="margin: 0px 5px; border-radius: 5px" />][tailwindcss]
 [<img align="left" src="https://cdn.simpleicons.org/android" alt="android" width="30" height="30" style="margin: 0px 5px; border-radius: 5px"/>][android]
+[<img align="left" src="https://cdn.simpleicons.org/springboot" alt="springboot" width="30" height="30" style="margin: 0px 5px; border-radius: 5px"/>][springboot]
 [<img align="left" src="https://cdn.simpleicons.org/express/f1f1f1" alt="express" width="30" height="30" style="margin: 0px 5px; border-radius: 5px" />][express]
 [<img align="left" src="https://cdn.simpleicons.org/mongodb" alt="mongodb" width="30" height="30" style="margin: 0px 5px; border-radius: 5px" />][mongodb]
 [<img align="left" src="https://cdn.simpleicons.org/mysql" alt="mysql" width="30" height="30" style="margin: 0px 5px; border-radius: 5px" />][mysql]
@@ -67,6 +68,7 @@
 [nodejs]: https://nodejs.org
 [reduxjs]: https://redux.js.org
 [android]: https://developer.android.com
+[springboot]: https://spring.io/
 [tailwindcss]: https://tailwindcss.com/
 [express]: https://expressjs.com
 [mongodb]: https://www.mongodb.com/
@@ -84,6 +86,7 @@
 [<img align="left" src="https://cdn.simpleicons.org/gnubash" alt="bash" width="30" height="30" style="margin: 0px 5px; border-radius: 5px" />][bash]
 [<img align="left" src="https://cdn.simpleicons.org/docker" alt="docker" width="30" height="30" style="margin: 0px 5px; border-radius: 5px" />][docker]
 [<img align="left" src="https://cdn.simpleicons.org/git" alt="git" width="30" height="30" style="margin: 0px 5px; border-radius: 5px" />][git]
+[<img align="left" src="https://cdn.simpleicons.org/github/f1f1f1" alt="github" width="30" height="30" style="margin: 0px 5px; border-radius: 5px" />][github]
 [<img align="left" src="https://cdn.simpleicons.org/linux" alt="linux" width="30" height="30" style="margin: 0px 5px; border-radius: 5px" />][linux]
 [<img align="left" src="https://cdn.simpleicons.org/arduino" alt="arduino" width="30" height="30" style="margin: 0px 5px; border-radius: 5px" />][arduino]
 [<img align="left" src="https://cdn.simpleicons.org/nginx" alt="nginx" width="30" height="30" style="margin: 0px 5px; border-radius: 5px" />][nginx]
@@ -94,6 +97,7 @@
 [bash]: https://www.gnu.org/software/bash/
 [docker]: https://cdn.simpleicons.org/docker
 [git]: https://git-scm.com/
+[github]: https://github.com/
 [linux]: https://www.linux.org/
 [arduino]: https://www.arduino.cc/
 [nginx]: https://www.nginx.com
