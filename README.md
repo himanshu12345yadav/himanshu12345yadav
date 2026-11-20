@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Himanshu Yadav</h1>
 
-- 🔭 I’m currently working on crazy stuff
-- 🌱 I’m currently learning Devops , Cloud Computing
+- 🔭 Working on Cloud Native Systems
+- 🌱 Learning Devops , Cloud Computing
 - 😄 Pronouns: He/Him
 
 ### :link: Connect with me
