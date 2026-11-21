@@ -1,7 +1,7 @@
 # Hi 👋, I'm Himanshu Yadav
 
-- 🔭 Working on **Cloud Native & Distributed Systems**
-- 🌱 Exploring **Kubernetes, Service Mesh & Cloud Architecture**
+- 🔭 Working on **Cloud Native, Distributed Systems**
+- 🌱 Exploring **Kubernetes, Service Mesh , Cloud Architecture, AI**
 - 😄 Pronouns: He/Him
 
 ### 🔗 Connect with me
